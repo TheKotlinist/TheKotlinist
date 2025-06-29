@@ -31,7 +31,7 @@ I’m a developer with a strong background in **Web Development**, now focused o
 
 - 📧 Email: mikhael.ack03@gmail.com  
 - 🔗 LinkedIn: [linkedin.com/in/Mikhael Adicahya Kurniawan](https://www.linkedin.com/in/mikhael-adicahya-k-102573312/)  
-- 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com)
+- 🌐 Portfolio: [Still In Progress](No Links)
 
 ---
 
