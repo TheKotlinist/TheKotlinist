@@ -16,7 +16,7 @@ I’m a developer with a strong background in **Web Development**, now focused o
 ## 🛠 Tech Stack
 
 **Mobile Development**  
-`Kotlin` • `Android Studio` • `Jetpack Compose` *(learning)*
+`Kotlin` • `Flutter` • `Android Studio` • `Jetpack Compose` *(learning)* 
 
 **Web Development**  
 `Next.js` • `React` • `JavaScript` • `TypeScript` • `Tailwind CSS`
