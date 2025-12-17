@@ -1,4 +1,4 @@
-# Hi There, I'm Mike 👋
+# Hi There, I'm Mike
 
 I’m a developer with a strong background in **Web Development**, now focused on growing my expertise in **Mobile Development**, especially using **Kotlin** for native Android applications.
 
